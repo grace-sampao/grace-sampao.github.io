@@ -27,7 +27,7 @@ Every technical log and breakdown published here reflects a strict systems-level
 
 ---
 
-### Engineering with Structural Logic
+### Engineering with Structural Logic 🧮
 
 The transition from traditional physical architecture to AI systems engineering was driven by a fundamental truth: **the logic of structure remains constant, regardless of the medium.** 
 
